@@ -1,4 +1,4 @@
-Licensed and Copyrights: **Sagar Krishna.**
+Licensed and Copyrights: **Sagar Gowda**
 
 **VectorStore Summary:**
 
