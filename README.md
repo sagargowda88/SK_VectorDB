@@ -1,3 +1,5 @@
+Licensed and Copyrights: **Sagar Krishna.**
+
 **VectorStore Summary:**
 
 The VectorStore is a Python-based implementation designed for basic vector storage, indexing, and similarity search. It serves as a foundational component for handling text embeddings and facilitating efficient retrieval of similar vectors.
